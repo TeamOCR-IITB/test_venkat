@@ -1,0 +1,24 @@
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <title>
+    </title>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+    <meta content="tesseract 5.0.0-alpha-20201231-256-g73a32" name="ocr-system"/>
+    <meta content="ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf" name="ocr-capabilities"/>
+    </head>
+    <body>
+    <div class="ocr_page" id="page_1" title='image "data/books_output/test_venkat/test_venkat-S1/Images/P_001.jpg"; bbox 0 0 3301 2550; ppageno 0'>
+    <span class="ocr_sent" title="bbox 525 221 2688 354;"> 112th Meeting of the Standing Committee (28th June 2022)</span>
+<span class="ocr_sent" title="bbox 475 291 2746 448;"> List of Institutions Recommended For Accreditation by NAAC</span>
+<span class="ocr_sent" title="bbox 1185 413 1831 602;"> 2nd Cycle</span>
+<span class="ocr_sent" title="bbox 244 483 976 683;"> Autonomous Colleges</span>
+<img class="ocr_tab" title="bbox 239 689 2171 890;" src="../Images/Layout/P_001table21.jpg";> 
+<img class="ocr_tab" title="bbox 246 1049 2120 1314;" src="../Images/Layout/P_001table81.jpg";> 
+<span class="ocr_sent" title="bbox 241 2370 1576 3120;"> 112th Meeting of the Standing Committee (28th June 2022)</span>
+</div>
+</body>
+</html>
