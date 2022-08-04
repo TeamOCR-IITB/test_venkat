@@ -1,0 +1,27 @@
+ 72
+ 3. The Efficiencies
+ unit Propulsive V,Pi
+ Va
+ b) Non - air breathing engine
+ Figure 3.1: The Block diagrams of Propulsion system
+ Figure 3.2: The energy balance of a propulsion system
+ Newton's II law as
+ (3.1)
+ where the first term on the right hand side is due to the velocity change and the
+ second due to the difference in pressure between the exit and the ambient. Ae
+ In the case of a non-airbreathing engine (a rocket engine), the expression for
+ One of the classical design conditions for the rocket nozzle is Pe = Pas since this
+ ensures complete expansion. For an operational rocket, the change in altitude
+ during the flight affects the second term. However, the second term is very small
+ or negligible as compared to the first term. In fact, in the worst operating off-
+ design conditions, the magnitude of the second term does not exceed 10 % in the
+ case of rocket engines. This is not true in the case of air breathing engines always.
+ In the analysis to follow, the second term will be ignored for simplicity for rocket
+ Efficiencies can be defined as output/ (output + losses) or output / input. It
+ must be understood that these two definitions have indeed different implications.
+ Both these definitions will be used below. The losses can be several. Transmission
+ and other mechanical losses are ignored for the present. The losses accounted for
+ refers to the cross sectional area ofthe nozzle exit.
+ thrust is
+ (3.2)
+ engines.

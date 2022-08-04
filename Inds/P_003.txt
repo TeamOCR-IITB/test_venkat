@@ -1,0 +1,33 @@
+ 3.3. The Propulsive Efficiency
+ 73
+ are essentially those due to unutilized kinetic energy in the exhaust stream and
+ the unavailable energy fundamental to thermodynamics. The diagram in Fig. 3.2
+ illustrates the energy balance.
+ 3.3 The Propulsive Efficiency
+ In evolving this definition, input fuel energy is not considered. The output which
+ is the propulsive effect is divided by the output plus the unutilized kinetic energy
+ of the exhaust stream. (This is defined in terms of power). The power due to the
+ propulsive effect is FVa, where Va is the flight speed of the vehicle carrying the
+ propulsive unit. The losses in the jet are estimated to be ma(Ve Va)2 / 2 since
+ Veis the velocity of the jet relative to the propulsive unit, and (Ve Va)2/2 the
+ kinetic energy per unit mass flow rate of the jet. Thus,
+ Thrust Power = FVa
+ (3.3)
+ (3.4)
+ 3.3.1 Air Breathing Engines
+ The expression for the power lost can also be written as F (Ve - Va)/2, if we note
+ that F = ma(Ve Va); thus, the propulsive efficiency (p) can be written down as
+ (3.5)
+ where T = Va/Ve. The above expression for propulsive efficiency is valid for all air
+ breathing engines with rinf / ma = f<K 1. Typical values of f for turbojets, turbo-
+ prop and turbofans will be around 0.005 0.02. Only in the case of a ramjet or an
+ after-burning turbojet, f is about 0.067, the stoichiometric value for a kerosene-
+ air system. Even in this case the above expression is approximately valid. The
+ expression that allows for non-zero f can be obtained as
+ (3.6)
+ It is useful to obtain the order of magnitude of the power usefully spent and lost.
+ For a typical operating condition like F = 70 kN, Va = 800 km/hr (222 m/s), Ve =
+ 522 m/s,
+ Useful power = FVa = 15.5MW
+ (3.7)
+ (3.8)

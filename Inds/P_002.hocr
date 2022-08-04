@@ -1,0 +1,48 @@
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <title>
+    </title>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+    <meta content="tesseract 5.0.0-alpha-20201231-256-g73a32" name="ocr-system"/>
+    <meta content="ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf" name="ocr-capabilities"/>
+    </head>
+    <body>
+    <div class="ocr_page" id="page_1" title='image "data/books_output/test_venkat/test_venkat-S1/Images/P_002.jpg"; bbox 0 0 3509 2481; ppageno 0'>
+    <span class="ocr_sent" title="bbox 455 218 733 363;"> 72</span>
+<span class="ocr_sent" title="bbox 1771 218 3084 366;"> 3. The Efficiencies</span>
+<img class="ocr_im" title="bbox 719 374 1358 760;" src="../Images/Layout/P_002im20.jpg";> 
+<span class="ocr_sent" title="bbox 1536 394 2645 633;"> unit Propulsive V,Pi</span>
+<span class="ocr_sent" title="bbox 1657 482 2419 740;"> Va</span>
+<span class="ocr_sent" title="bbox 1441 533 2724 812;"> b) Non - air breathing engine</span>
+<span class="ocr_sent" title="bbox 804 598 2583 908;"> Figure 3.1: The Block diagrams of Propulsion system</span>
+<img class="ocr_im" title="bbox 803 932 1810 1318;" src="../Images/Layout/P_002im70.jpg";> 
+<span class="ocr_sent" title="bbox 794 969 2604 1432;"> Figure 3.2: The energy balance of a propulsion system</span>
+<span class="ocr_sent" title="bbox 457 1099 1209 1614;"> Newton's II law as</span>
+<img class="ocr_eq" title="bbox 860 1662 1767 1726;" src="../Images/Layout/P_002eq130.jpg";> 
+<span class="ocr_sent" title="bbox 2076 1177 3084 1720;"> (3.1)</span>
+<span class="ocr_sent" title="bbox 457 1250 3084 1833;"> where the first term on the right hand side is due to the velocity change and the</span>
+<span class="ocr_sent" title="bbox 457 1291 3084 1888;"> second due to the difference in pressure between the exit and the ambient. Ae</span>
+<span class="ocr_sent" title="bbox 525 1388 3087 2021;"> In the case of a non-airbreathing engine (a rocket engine), the expression for</span>
+<span class="ocr_sent" title="bbox 457 1531 3084 2234;"> One of the classical design conditions for the rocket nozzle is Pe = Pas since this</span>
+<span class="ocr_sent" title="bbox 457 1572 3077 2282;"> ensures complete expansion. For an operational rocket, the change in altitude</span>
+<span class="ocr_sent" title="bbox 455 1613 3084 2343;"> during the flight affects the second term. However, the second term is very small</span>
+<span class="ocr_sent" title="bbox 455 1652 3084 2402;"> or negligible as compared to the first term. In fact, in the worst operating off-</span>
+<span class="ocr_sent" title="bbox 455 1691 3084 2456;"> design conditions, the magnitude of the second term does not exceed 10 % in the</span>
+<span class="ocr_sent" title="bbox 457 1732 3080 2511;"> case of rocket engines. This is not true in the case of air breathing engines always.</span>
+<span class="ocr_sent" title="bbox 453 1771 3084 2570;"> In the analysis to follow, the second term will be ignored for simplicity for rocket</span>
+<span class="ocr_sent" title="bbox 528 1868 3090 2710;"> Efficiencies can be defined as output/ (output + losses) or output / input. It</span>
+<span class="ocr_sent" title="bbox 455 1909 3073 2758;"> must be understood that these two definitions have indeed different implications.</span>
+<span class="ocr_sent" title="bbox 455 1950 3077 2813;"> Both these definitions will be used below. The losses can be several. Transmission</span>
+<span class="ocr_sent" title="bbox 455 1989 3087 2875;"> and other mechanical losses are ignored for the present. The losses accounted for</span>
+<span class="ocr_sent" title="bbox 455 1332 2155 1939;"> refers to the cross sectional area ofthe nozzle exit.</span>
+<span class="ocr_sent" title="bbox 460 1427 918 2076;"> thrust is</span>
+<img class="ocr_eq" title="bbox 1037 2081 1601 2137;" src="../Images/Layout/P_002eq180.jpg";> 
+<span class="ocr_sent" title="bbox 2076 1473 3084 2138;"> (3.2)</span>
+<span class="ocr_sent" title="bbox 457 1817 897 2621;"> engines.</span>
+</div>
+</body>
+</html>

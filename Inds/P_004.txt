@@ -1,0 +1,20 @@
+ 74
+ 3. The Efficiencies
+ NAB
+ 0
+ 1.2
+ Figure 3.3: Plot of F/mV; and Tp with velocity ratio for air breathing and non-airbreathing
+ engines
+ (3.9)
+ Thus, the enormous power oft the propulsion system and also that lost in thejet
+ can be noted. Propulsive efficiencies ofthe order of 60 % are considered reasonable
+ from an overall operation point of view. If we put the expressions for thrust and
+ propulsive efficiency together we obtain,
+ (3.10)
+ (3.11)
+ 3.4 Further Analysis
+ Figure 3.3 shows a plot of both F/(maVe) and Tp with T. If T > 1, the developed
+ thrust is negative. Thus, for an air breathing engine T < 1. The maximum effi-
+ ciency is obtained at T = 1, at which Tp = 1 and F = 0. Apparently, the propulsive
+ units are most efficient when they do no work!. How do we interpret this situation
+ in actual practice? In order to obtain a non-zero thrust and have a high propulsive

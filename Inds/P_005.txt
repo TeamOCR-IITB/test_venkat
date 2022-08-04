@@ -1,0 +1,38 @@
+ 3.4. Further Analysis
+ 75
+ efficiency, we should let T be less than 1, i.e. the jet speed be only a little larger
+ than the flight speed, SO that one can obtain the desired thrust by increasing the
+ flow rate, ma- For the fixed flight speed, increased flow rates are obtained by in-
+ creasing the area of cross section of the flow. This is precisely what happens in a
+ propeller where a large air flow is given a small velocity increment to obtain the
+ desired thrust at high propulsive efficiency (n 95 %). We raise the next question:
+ If propeller devices are SO efficient, how come other devices like turbojets are also
+ The answer lies in the fluid mechanics associated with propellers. The flow
+ over the airfoil cross sections of the propeller blades is governed by the vector
+ combination of the flight speed and the local peripheral velocity of the rotating
+ blade (2m R N, R = local radius, N = rotational speed of the propeller). At flight
+ speeds of 450 km/hr (125 m/s), rotational speeds of 4500 rpm (75 rps), radius of
+ about 0.5 m, the peripheral speed amounts to 235 m/s. Vector velocity over the
+ blades amounts to 266 m/s. Expressed in terms of Mach numbers (the ratio of
+ flow velocity to the speed of sound), the local Mach number is 0.8, approaching
+ ac condition which leads to drastic reduction in the efficiency of the propeller, due
+ to the formation of strong acoustic waves (weak shock waves) on the surface of
+ the propeller. As such, propeller devices are not used for flight speeds beyond 450
+ a 500 km/hr. Hence, other devices like turbojets have evolved. Also devices like
+ turbojets have a much higher thrust per unit cross section and thus, enable better
+ in existence?
+ packaging.
+ 3.4.1 Non-Air Breathing Engines (Rocket Engines)
+ In the case of rocket engines, the definition for propulsive efficiency leads to
+ (3.12)
+ Again, if we set the expression for thrust and propulsive efficiency together we
+ Itcan be seen that the thrust ofthe rocket is independent offlight speed (otherwise
+ an elementary fact). The propulsive efficiency is maximum (100 %) at T = 1 (see
+ Figure 3.3). One feature different from that of air breathing engines is that T can
+ be greater than unity i.e. the flight speed does not always have to be less than
+ jet speed. This derives from the fact that the rocket engine generates its own hot
+ At the same T, the propulsive efficiency of a rocket engine is larger than that of
+ an airbreathing engine. At T = 0.425 ( = 222/522.0), from the previous example, Tp
+ obtain,
+ (3.13)
+ gases, exhausting them through the nozzle to produce thrust.
