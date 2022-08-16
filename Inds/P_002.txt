@@ -1,27 +1,41 @@
- 72
- 3. The Efficiencies
- unit Propulsive V,Pi
- Va
- b) Non - air breathing engine
- Figure 3.1: The Block diagrams of Propulsion system
- Figure 3.2: The energy balance of a propulsion system
- Newton's II law as
- (3.1)
- where the first term on the right hand side is due to the velocity change and the
- second due to the difference in pressure between the exit and the ambient. Ae
- In the case of a non-airbreathing engine (a rocket engine), the expression for
- One of the classical design conditions for the rocket nozzle is Pe = Pas since this
- ensures complete expansion. For an operational rocket, the change in altitude
- during the flight affects the second term. However, the second term is very small
- or negligible as compared to the first term. In fact, in the worst operating off-
- design conditions, the magnitude of the second term does not exceed 10 % in the
- case of rocket engines. This is not true in the case of air breathing engines always.
- In the analysis to follow, the second term will be ignored for simplicity for rocket
- Efficiencies can be defined as output/ (output + losses) or output / input. It
- must be understood that these two definitions have indeed different implications.
- Both these definitions will be used below. The losses can be several. Transmission
- and other mechanical losses are ignored for the present. The losses accounted for
- refers to the cross sectional area ofthe nozzle exit.
- thrust is
- (3.2)
- engines.
+( २६३ )
+
+संयोजिता येन लवे-
+न रूपं भवेद्धि तन्नाऽथ हरान्‌ वदाशु ॥४॥
+
+न्यासः ३ ५ 9 ६ १ फलम्‌ १।अश्र्र “परिकळ्प्यादो .रूपं--'
+
+इति कढिपित रुपम्‌ १ । सांशा जाताः १।४।६।१६।२५ पए॒षां निकटयो-
+
+घ्याज्जाताश्छेदाः ४।३६।१४४।४०० श्रन्त्याङ्कुः २५ श्रयमन्त्यश्छेदः ।
+\y
+
+द्वा ३ 9 1 तद । द्ध । स शङम्‌ १॥ पवमेकेकांशकेषु ।
+
+सूत्रम्‌ ।
+शउत्पादयोश्च भागान्‌
+युग्मभिते तद्यृतो यथा रूपम्‌ ।
+
+तच्छेदहतोदिष्टां-
+
+शकः परांशाधिकस्तु. पूर्वहरः ॥ ८ ॥
+
+(१) श्रन्नोपपत्तिः । कल्प्यन्ते श्रशाः = श्र, , श्र २; श्र ३ --- a
+
+श्रञ्न न-संख्यक युग्ममानम्‌ ।
+श्रतो न-स्ख्यका रूपांशभिश्नाः पूवप्रकारेण उत्पादिता
+RR SP
+क, कः ' कः कन [
+श्राचार्यरीत्याऽभीष्टहरै श्र, क4 + श्नः । क१(श्र,क१+ शच)
+
+ततो द्वो भिन्नो जातो
+
+श्रनयोर्योगः = -- श्र, + ___ श्रः
+श्र १+ श्रर क. (अ,क१ +श्रः)
+
+श्र
+। त...
+श््र.क +श्रः२ क. (अभक + श्रः) श्रः
+
+क, (ऋ्रःकः प श्र२) क.
+ततः क, दरेण श्र,, श्र, श्रंशवशेन च द्वो भिन्नो भवतो
